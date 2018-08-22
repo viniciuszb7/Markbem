@@ -2,11 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="693b20a7-61da-4975-bc34-25312a6d721d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/carousel.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/carousel.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Suporte.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/banner.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/galo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/header (2).png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/header(1).jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/header_exemplo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/logo(1).png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/logo2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/logo_neg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/mascotemark.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/header.jpg" afterPath="$PROJECT_DIR$/img/header.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/header3.jpg" afterPath="$PROJECT_DIR$/img/header3.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/teste.html" afterPath="$PROJECT_DIR$/teste.html" />
     </list>
     <ignored path="markbem.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -40,7 +49,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="teste.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="teste.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/teste.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="531">
@@ -80,71 +89,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bootstrap.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="7238">
-              <caret line="329" column="13" selection-start-line="329" selection-start-column="10" selection-end-line="329" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="teste.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/teste.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1782">
-              <caret line="598" column="9" selection-start-line="598" selection-start-column="9" selection-end-line="598" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="carousel.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/carousel.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="531">
-              <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="carousel.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/carousel.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="gulpfile.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gulpfile.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="creative.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/creative.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="91">
+              <caret line="249" column="77" selection-start-line="249" selection-start-column="77" selection-end-line="249" selection-end-column="77" />
               <folding />
             </state>
           </provider>
@@ -180,8 +129,9 @@
         <option value="$PROJECT_DIR$/css/ps.css" />
         <option value="$PROJECT_DIR$/css/carousel.css" />
         <option value="$PROJECT_DIR$/js/carousel.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/teste.html" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -407,7 +357,7 @@
       <workItem from="1534738144811" duration="572000" />
       <workItem from="1534884651724" duration="22000" />
       <workItem from="1534893491721" duration="3236000" />
-      <workItem from="1534897648807" duration="4220000" />
+      <workItem from="1534897648807" duration="10409000" />
     </task>
     <task id="LOCAL-00001" summary="Icone Adesivo">
       <created>1534738496072</created>
@@ -451,11 +401,18 @@
       <option name="project" value="LOCAL" />
       <updated>1534902070208</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Controle de Versão">
+      <created>1534907871052</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1534907871052</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="92818000" />
+    <option name="totallyTimeSpent" value="99007000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -526,21 +483,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/scss/_navbar.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1694">
-          <caret line="77" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/ps.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -817,14 +759,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gulpfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/teste.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
@@ -855,14 +789,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="440">
           <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1782">
-          <caret line="598" column="9" selection-start-line="598" selection-start-column="9" selection-end-line="598" selection-end-column="9" />
           <folding />
         </state>
       </provider>
@@ -902,6 +828,38 @@
             <element signature="n#style#0;n#div#26;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#27;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" column="3" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="138" column="0" selection-start-line="138" selection-start-column="0" selection-end-line="138" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="249" column="77" selection-start-line="249" selection-start-column="77" selection-end-line="249" selection-end-column="77" />
+          <folding />
         </state>
       </provider>
     </entry>
